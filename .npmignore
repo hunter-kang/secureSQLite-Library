@@ -1,0 +1,5 @@
+# Ignore test files
+test.js
+
+# Ignore README file
+README.md

@@ -1,13 +1,13 @@
 {
-  "name": "sqllibrary",
+  "name": "sqlite-ffi-library",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A Node.js library for SQLite using FFI bindings",
+  "main": "lib.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Hunter Kang",
+  "license": "MIT",
   "dependencies": {
     "ffi-napi": "^4.0.3"
   }
